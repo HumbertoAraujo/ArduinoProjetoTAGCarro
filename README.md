@@ -15,7 +15,7 @@
 `
 ##  NA PASTA IMAGENS POSSUI FOTOS E VÍDEO DO PROJETO MONTADO, E INSTALADO NO CARRO.
 
-## 🔨 Pontos a Melhorar no futuro no projeto
+## 🔨 Pontos que pretendo melhorar no projeto
 
 - ``Quero refatorar para deixar a leitura mais rápida, não esperando a leitura completa de acordo com o tempo de proximdade da TAG.``
 - ``Quero criar uma lista com as TAGs cadastradas, que fique gravada na EEPROM, possuindo um TAG mestre para gravar e deletar TAGs de Acesso.``
